@@ -1,0 +1,18 @@
+body
+{
+    font-family: 'Lobster', cursive;
+    color:black;
+    background: linear-gradient(to top, #00ff00 0%, #00ccff 100%);
+
+}
+
+canvas
+{
+ margin-top: 30px;
+}
+
+#color_holding_name, #apply_filter_btn, #taking_snapshot
+{
+ background-color: white;
+ color: black;
+}
